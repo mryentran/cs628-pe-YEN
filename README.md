@@ -10,6 +10,8 @@ Resume.js:
 Resume.css:
   This file styles the elements in Resume.js to improve visual presentation.
   For instance, the .resume class sets the layout (e.g., font, color, padding), and .header aligns the header text to the center.
-  Additional classes like .projects a provide interactivity, such as link hover effects
+  Additional classes like .projects provide interactivity, such as link hover effects
 To run the project I gonna use App.js and run the project with a development server which is npm start
 **Output**: then I will have a web with the detail content and it's design that I set.
+This is the link that you can check or run the project:
+https://github.com/mryentran/Myresume
